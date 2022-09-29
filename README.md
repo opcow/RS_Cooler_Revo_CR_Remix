@@ -18,7 +18,7 @@ This is a remix of the Red Squirrel Compact Fan Housing for Creality Ender 3 3D 
 
 A generic base lock is included. This should be compatible with other Hero Me mounts.
 
-This cooler should
+This cooler should workd well with the original Ender 3 hotend as well.
 
 Step files are included if you need to modify anything.
 
