@@ -1,4 +1,4 @@
-# RS Cooler Remix for Ender 3
+# RS Cooler Remix for Revo CR
 
 Find the original [here.](https://www.thingiverse.com/thing:4170231)
 
