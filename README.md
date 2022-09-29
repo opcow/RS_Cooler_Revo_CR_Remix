@@ -20,7 +20,14 @@ A generic base lock is included. This should be compatible with other Hero Me mo
 
 This cooler should work well with the original Ender 3 hotend as well.
 
-Step files are included if you need to modify anything.
+The intake scoop for the radial fan is optional,
 
----
+This cooler should work well with the original Ender 3 hotend as well.
+
+A step file is included should you need to modify anything.
+
+Print with the fan end facing upward.
+
+----
+
 ![view 4](https://raw.githubusercontent.com/opcow/RS_Cooler_Revo_CR_Remix/main/view-1.png)
