@@ -24,4 +24,4 @@ Step files are included if you need to modify anything.
 
 ---
 
-![view 4](https://raw.githubusercontent.com/opcow/RS_Cooler_Revo_CR_Remix/master/view-1.png)
+![view 4](https://raw.githubusercontent.com/opcow/RS_Cooler_Revo_CR_Remix/main/view-1.png)
